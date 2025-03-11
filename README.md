@@ -29,5 +29,4 @@
 - 🌐 GitHub: [github.com/matheuslameque](https://github.com/matheuslameque)
 
 ## 📚 Cursos em Andamento / Ongoing Courses
-- Formação para Arquiteto de Soluções na AWS - Escola da Nuvem (jan-mar 2025)  
-  AWS Solutions Architect Training - Escola da Nuvem (Jan-Mar 2025)
+- Formação para Arquiteto de Soluções na AWS - Escola da Nuvem (jan-mar 2025) / AWS Solutions Architect Training - Escola da Nuvem (Jan-Mar 2025)
