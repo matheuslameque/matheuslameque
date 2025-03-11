@@ -5,6 +5,10 @@
 🛠️ Experiência com **Docker**, **Kubernetes**, **Terraform**, **CI/CD** / Experience with **Docker**, **Kubernetes**, **Terraform**, **CI/CD**  
 📜 Certificações: **AWS Certified Cloud Practitioner**, **FinOps Certified Engineer**
 
+## 🚀 Projetos Destacados / Highlighted Projects
+- [Projeto de Arquitetura para E-commerce / E-commerce Architecture Project](https://github.com/matheuslameque/ecommerce-project)  
+  Descrição: Projeto de arquitetura para e-commerce utilizando AWS (VPC, CloudFront, ELB, Route 53, Aurora). / Description: Architecture project for e-commerce using AWS (VPC, CloudFront, ELB, Route 53, Aurora).
+
 ## 🛠️ Habilidades Técnicas / Technical Skills
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
